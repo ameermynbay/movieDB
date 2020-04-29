@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="afiche"
+        android:id="@+id/afiche_page"
+        android:icon="@drawable/afiche_icon"
+        />
+
+    <item
+        android:title="HD"
+        android:id="@+id/kinopoiskHD_page"
+        android:icon="@drawable/hd_icon"
+        />
+
+    <item
+        android:title="Search"
+        android:id="@+id/search_page"
+        android:icon="@drawable/search_icon"
+        />
+    <item
+        android:title="Profile"
+        android:id="@+id/profile_page"
+        android:icon="@drawable/profile_icon"
+        />
+
+</menu>
